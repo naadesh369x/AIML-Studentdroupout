@@ -1,0 +1,2 @@
+Best Params,Test Accuracy,CV Mean,CV Std
+"{'criterion': 'gini', 'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 5}",0.7291501191421763,0.7235901509134234,0.03142383527374548
